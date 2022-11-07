@@ -1,0 +1,39 @@
+/* Universal styles */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+a {
+    font-weight: bold;
+    color: blue;
+    text-decoration: none
+}
+
+/* Header */
+
+header {
+    background-image: url(../images/pattern.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* Brushes */
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
